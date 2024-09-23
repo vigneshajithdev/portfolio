@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-nithin",
+  "name": "portfolio-vigneshajith",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +46,8 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.1.0"
+
   }
 }
